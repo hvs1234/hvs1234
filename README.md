@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/6wzqcWGfih4AAAAC/discord-welcome.gif)](https://rishavchanda.io)
+[![MasterHead width="1000"](https://media.tenor.com/6wzqcWGfih4AAAAC/discord-welcome.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Harshvardhan Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="center" width="1000" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Coding">
