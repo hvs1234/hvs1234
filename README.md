@@ -27,7 +27,9 @@
 [![](https://visitcount.itsvg.in/api?id=hvs1234&label=View%20&color=11&icon=2&pretty=true)](https://visitcount.itsvg.in)
 ## About:
   ![Top Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hvs1234&theme=vue)
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=hvs1234&label=View%20&color=11&icon=2&pretty=true" />
+</a>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hvs1234&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hvs1234&theme=radical&hide_border=false)<br/>
