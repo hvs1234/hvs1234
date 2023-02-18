@@ -40,3 +40,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![snake gif](https://github.com/hvs1234/hvs1234/blob/output/github-contribution-grid-snake.gif)
+[![](https://visitcount.itsvg.in/api?id=harshvardhan8&label=Profile%20Views&icon=8&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=harshvardhan8&label=Profile%20Views&icon=8&pretty=false" />
+</a>
