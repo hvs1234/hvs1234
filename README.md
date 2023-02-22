@@ -26,24 +26,13 @@
   ![Top Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hvs1234&theme=vue)
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=hvs1234&label=View%20&color=11&icon=2&pretty=true" />
-<!-- </a>
-# 📊 GitHub Stats:
+</a>
+<!-- # 📊 GitHub Stats:
 [![Harsh GitHub stats](https://github-readme-stats.vercel.app/api?username=hvs1234)](https://github.com/hvs1234/github-readme-stats) -->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hvs1234&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hvs1234&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hvs1234&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=hvs1234&icon=2&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
