@@ -18,8 +18,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hvs1234&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hvs1234&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## Activity Graph:
-[![Harsh github activity graph](https://activity-graph.herokuapp.com/graph?username=hvs1234&theme=react-dark)](https://github.com/hvs1234/github-readme-activity-graph)
+## About:
+  ![Top Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hvs1234&theme=radical)
 
 ## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hvs1234&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
