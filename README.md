@@ -4,9 +4,6 @@
 <img align="center" width="1000" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hvs1234&label=Profile%20views&color=0e75b6&style=flat" alt="hvs1234" /> </p>
 
-## Trophy:
- ![Top Trophy](https://github-profile-trophy.vercel.app/?username=hvs1234&theme=radical-ma&margin-w=15)
-
 - 🔭 I’m currently working on **Stock Market Application**
 
 - 🌱 I’m currently learning **React Nartive**
@@ -35,12 +32,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hvs1234&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hvs1234&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 ---
-[![](https://visitcount.itsvg.in/api?id=hvs1234&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=hvs1234&icon=2&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![snake gif](https://github.com/hvs1234/hvs1234/blob/output/github-contribution-grid-snake.gif)
-[![](https://visitcount.itsvg.in/api?id=harshvardhan8&label=Profile%20Views&icon=8&pretty=false)](https://visitcount.itsvg.in)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=harshvardhan8&label=Profile%20Views&icon=8&pretty=false" />
-</a>
