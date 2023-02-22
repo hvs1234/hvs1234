@@ -28,7 +28,7 @@
   <img src="https://visitcount.itsvg.in/api?id=hvs1234&label=View%20&color=11&icon=2&pretty=true" />
 </a>
 # 📊 GitHub Stats:
-[![Harsh GitHub stats](https://github-readme-stats.vercel.app/api?username=)](https://github.com/anuraghazra/github-readme-stats)
+[![Harsh GitHub stats](https://github-readme-stats.vercel.app/api?username=hvs1234)](https://github.com/hvs1234/github-readme-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
