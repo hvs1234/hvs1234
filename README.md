@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="center" width="1000" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hvs1234&label=Profile%20views&color=0e75b6&style=flat" alt="hvs1234" /> </p>
-
+---
 # 💫 About Me:
 🔭 I’m currently working on GUI Application<br>👯 I’m looking to collaborate on Technology<br>🤝 I’m looking for help with Projects<br>🌱 I’m currently learning React JS<br>💬 Ask me about Python Tkinter<br>⚡ Fun fact I think I'm Busy
 
@@ -21,9 +21,12 @@
 ## About:
   ![Top Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hvs1234&theme=radical)
 
+---
+
 ## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hvs1234&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-
+  
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
