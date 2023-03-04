@@ -6,7 +6,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=0ACDFC=&size=35&width=850&duration=6969&lines=JUST+BUILD+PYTHON+PROJECTS+THESE+DAYS.....!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=0ACDFC=&size=35&width=950&duration=5959&lines=JUST+BUILD+PYTHON+PROJECTS+THESE+DAYS.....!!!)](https://git.io/typing-svg)
 
 ---
 
