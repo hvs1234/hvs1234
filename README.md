@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hvs1234&label=Profile%20views&color=0e75b6&style=flat" alt="hvs1234" /> </p>
 
 ---
-
+<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=0ACDFC=&size=35&width=950&duration=5959&lines=JUST+BUILD+PYTHON+PROJECTS+THESE+DAYS.....!!!)](https://git.io/typing-svg)
 
 ---
