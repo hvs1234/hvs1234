@@ -12,7 +12,11 @@
 ---
 
 # 💫 About Me:
-## 🔭 I’m currently working on GUI Application<br> ## 👯 I’m looking to collaborate on Technology<br> ## 🤝 I’m looking for help with Projects<br> ## 🌱 I’m currently learning React JS<br> ## 💬 Ask me about Python Tkinter<br> ## ⚡ Fun fact I think I'm Busy
+## 🔭 I’m currently working on GUI Application<br> ## 👯 I’m looking to collaborate on Technology<br> 
+## 🤝 I’m looking for help with Projects<br> 
+## 🌱 I’m currently learning React JS<br> 
+## 💬 Ask me about Python Tkinter<br> 
+## ⚡ Fun fact I think I'm Busy
 
 ---
 
