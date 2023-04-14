@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Be%20A%20Better%20Creativity&desc=Welcome%20To%20My%20GitHub%20Profile&fontColor=FFFF00E&fontSize=60&fontAlignY=38&descAlignY=53&descAlign=70.5)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Be%20A%20Better%20Creativity&desc=Welcome%20To%20My%20GitHub%20Profile&fontColor=#FFFF00E&fontSize=60&fontAlignY=38&descAlignY=53&descAlign=70.5)
 <h1 align="center">Hi 👋, I'm Harshvardhan Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="center" width="1000" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" alt="Coding">
