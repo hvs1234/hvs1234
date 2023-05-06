@@ -12,7 +12,7 @@
 ---
 
 # 💫 About Me:
-## 🔭 I’m currently working on GUI Application
+## 🔭 I’m currently working on WEB Application
 ## 👯 I’m looking to collaborate on Technology 
 ## 🤝 I’m looking for help with Projects
 ## 🌱 I’m currently learning React JS 
