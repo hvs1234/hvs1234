@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Be%20A%20Better%20Creativity&fontColor=FFFF00&fontSize=60&fontAlignY=38&descAlignY=53&descAlign=70.5)
 <h1 align="center">Hi 👋, I'm Harshvardhan Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FrontEnd React Developer</h3>
 <img align="center" width="1000" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" alt="Coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hvs1234&label=Profile%20views&color=0e75b6&style=flat" alt="hvs1234" /> </p>
 
