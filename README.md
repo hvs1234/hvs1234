@@ -37,7 +37,7 @@
 ---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hvs1234&theme=radical&hide_border=false)<br/>
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hvs1234&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=20)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hvs1234&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=40)
 
 ---
 ## About:
