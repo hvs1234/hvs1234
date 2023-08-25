@@ -12,12 +12,12 @@
 ---
 
 # 💫 About Me:
-## 🔭 I’m currently working on WEB Application
-## 👯 I’m looking to collaborate on Technology 
-## 🤝 I’m looking for help with Projects
-## 🌱 I’m currently learning React JS 
-## 💬 Ask me about Python Tkinter 
-## ⚡ Fun fact I think I'm Busy
+# 🔭 I’m currently working on WEB Application
+# 👯 I’m looking to collaborate on Technology 
+# 🤝 I’m looking for help with Projects
+# 🌱 I’m currently learning React JS 
+# 💬 Ask me about Python Tkinter 
+# ⚡ Fun fact I think I'm Busy
 
 ---
 
