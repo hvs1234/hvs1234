@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Be%20A%20Better%20Creativity&fontColor=FFFF00&fontSize=60&fontAlignY=38&descAlignY=53&descAlign=70.5)
-<h3 align="center">Hi 👋, I'm Harshvardhan Sharma</h3>
+<h1 align="center">Hi 👋, I'm Harshvardhan Sharma</h1>
 <p align="center">Front End Developer || React Developer || Electron JS</p>
 <br>
 <h3> 💫 About Me: </h3>
