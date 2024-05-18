@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Be%20A%20Better%20Creativity&fontColor=FFFF00&fontSize=60&fontAlignY=38&descAlignY=53&descAlign=70.5)
 <h1 align="center">Hi 👋, I'm Harshvardhan Sharma</h1>
-<h1 align="center">Front End Developer || React Developer || Electron JS</h1>
+<h1 align="center">Front End Developer || React Developer/h1>
 <br>
 <h3> 💫 About Me: </h3>
 <p> 🔭 I’m currently working on WEB Application </p>
 <p> 👯 I’m looking to collaborate on Technology </p>
 <p> 🤝 I’m looking for help with Projects </p>
-<p> 🌱 I’m currently learning Advanced Electron JS </p>
+<p> 🌱 I’m currently learning Advanced Node </p>
 <p> 💬 Ask me about Python, React </p>
 
 ---
