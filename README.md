@@ -11,7 +11,7 @@
 
 ---
 
-<a href="https://hvsportfolio.netlify.app/" align="left">Connect with me 😎</a>
+<a href="https://hvsportfolio.netlify.app/" target="_blank" align="left">Connect with me 😎</a>
 
 ---
 
