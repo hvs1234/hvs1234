@@ -76,7 +76,7 @@
 ---
 
 ## 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=hvs1234&theme=vision-friendly-dark&hide border=false&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=hvs1234&theme=vision-friendly-dark&border=false&no-frame=true&no-bg=false&margin-w=4)
 ---
 
 ### ✍️ Random Dev Quote
