@@ -79,6 +79,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=hvs1234&theme=onedark&border=false&no-frame=true&no-bg=false&margin-w=4)
 ---
 
+## 📊 Activity Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hvs12340&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
