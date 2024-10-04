@@ -71,6 +71,7 @@
 ---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hvs1234&theme=radical&hide_border=false)<br/>
 ---
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hvs1234&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=40)
 
 ---
@@ -81,6 +82,9 @@
 
 ## 📊 Activity Graph
 [![Harsh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hvs1234&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## ⏳ WakaTime Status Card
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hvs1234&theme=react-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
