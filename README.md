@@ -54,6 +54,18 @@
 ![Redux](https://img.shields.io/badge/redux-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![Redux Toolkit](https://img.shields.io/badge/redux--toolkit-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![React Router](https://img.shields.io/badge/react_router-%230D1117.svg?style=for-the-badge&logo=react-router&logoColor=%23CA4245)
+![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-%23FF0000.svg?style=for-the-badge&logo=spyder-ide&logoColor=white)
+![Terminal](https://img.shields.io/badge/terminal-%23000000.svg?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![React Icons](https://img.shields.io/badge/react_icons-%230D1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Font Awesome](https://img.shields.io/badge/font%20awesome-%23339AF0.svg?style=for-the-badge&logo=font-awesome&logoColor=white)
+![Hostinger](https://img.shields.io/badge/hostinger-%23FF5E5B.svg?style=for-the-badge&logo=hostinger&logoColor=white)
+![React Accordion](https://img.shields.io/badge/react_accordion-%230D1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Git Bash](https://img.shields.io/badge/git_bash-%23181717.svg?style=for-the-badge&logo=git&logoColor=white)
 
  
 ---
