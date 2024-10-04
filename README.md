@@ -1,9 +1,12 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png" width="100%" height="100%"></p> 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Be%20A%20Better%20Creativity&fontColor=FFFF00&fontSize=60&fontAlignY=38&descAlignY=53&descAlign=70.5)
+
+---
 <h1 align="center">Hi 👋, I'm Harshvardhan Sharma 🧑‍💻</h1>
 <h3 align="center">Front End Developer || React Developer In (Deepmindz Inovations Pvt Ltd)</h3>
-<br>
+---
+
 <h3> 💫 About Me: </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hvs1234&label=Profile%20views&color=0e75b6&style=flat" alt="hvs1234" /> </p>
 
@@ -73,6 +76,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=hvs1234&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hvs1234&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
