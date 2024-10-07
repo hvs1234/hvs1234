@@ -4,11 +4,15 @@
 
 <h1 align="center">Hi 👋, I'm Harshvardhan Sharma 🧑‍💻</h1>
 <h3 align="center">React Developer | Front End Development | PharynxAI (Deepmindz Inovations Pvt. Ltd)</h3>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Developer%20of%20ChatCool%20Bot;Used%20by%20over%20100,000%20users;3+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+</p>
+
+---
 
 <h3> 💫 About Me: </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hvs1234&label=Profile%20views&color=0e75b6&style=flat" alt="hvs1234" /> </p>
 
----
 
 - 🔭 I’m currently working on **PharynxAI Projects**
 
