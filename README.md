@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Harshvardhan Sharma 🧑‍💻</h1>
 <h3 align="center">React Developer | Front End Development | PharynxAI (Deepmindz Inovations Pvt. Ltd)</h3>
 <h2 align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=React%20Developer;Software Engineer (Web Dev)%20At%20Pharynx%20AI&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=React%20Developer;Software Engineer (Web Dev)%20At%20PharynxAI&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </h2>
 
 <h3> 💫 About Me: </h3>
