@@ -8,6 +8,8 @@
 <h3> 💫 About Me: </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hvs1234&label=Profile%20views&color=0e75b6&style=flat" alt="hvs1234" /> </p>
 
+---
+
 - 🔭 I’m currently working on **PharynxAI Projects**
 
 - 🌱 I’m currently learning **Python Fast API For Backend**
