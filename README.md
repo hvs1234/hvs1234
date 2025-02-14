@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=250&section=header&text=Be%20A%20Better%20Creativity&fontColor=FFFF00&fontSize=60&fontAlignY=38&descAlignY=53&descAlign=70.5)
 
 <h1 align="center">Hi 👋, I'm Harshvardhan Sharma 🧑‍💻</h1>
-<h3 align="center">React Developer | Front End Development | PharynxAI (Deepmindz Inovations Pvt. Ltd)</h3>
+<h3 align="center">Software Engineer | React Developer | PharynxAI (Deepmindz Innovations Pvt. Ltd)</h3>
 <h2 align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=React%20Developer;Software Engineer (Web Dev)%20At%20PharynxAI&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </h2>
